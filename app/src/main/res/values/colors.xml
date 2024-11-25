@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary Colors -->
+    <color name="colorPrimary">#6FCF97</color> <!-- سبز ملایم -->
+    <color name="colorPrimaryDark">#56B870</color> <!-- سبز تیره‌تر -->
+    <color name="colorAccent">#FFD166</color> <!-- زرد آرامش‌بخش -->
+
+    <!-- Background and Surface Colors -->
+    <color name="backgroundColor">#F5F9F7</color> <!-- خاکستری روشن -->
+    <color name="surfaceColor">#FFFFFF</color> <!-- سفید برای کارت‌ها -->
+
+    <!-- Text Colors -->
+    <color name="textPrimary">#212121</color> <!-- مشکی برای متن اصلی -->
+    <color name="textSecondary">#757575</color> <!-- خاکستری برای متن فرعی -->
+
+    <!-- Divider and Border Colors -->
+    <color name="dividerColor">#E0E0E0</color>
+
+    <!-- Custom Green Shades -->
+    <color name="greenLight">#B2E7C8</color>
+    <color name="greenDark">#4CAF50</color>
+</resources>
