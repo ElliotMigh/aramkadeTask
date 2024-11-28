@@ -63,6 +63,7 @@ app
 
 | Main Page                             | Details Page                           |
 |---------------------------------------|----------------------------------------|
-| ![Main Page](./assets/aram1.jpg)     | ![Details Page](./assets/aram2.jpg)    |
+| ![Main Page](![aram1](https://github.com/user-attachments/assets/7d9c8bd1-08ef-4de8-a344-061ab172fc72))     
+| ![Details Page](![aram2](https://github.com/user-attachments/assets/565620ed-2fd4-416e-8c2a-99749dab6c9d))    |
 
 ---
